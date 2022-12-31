@@ -273,11 +273,11 @@ DNS request timed out.
 
 
 
-![](D:\作业\网络\1.jpg)
+![](1.jpg)
 
 >接下来仍在 `Network` 面板，选择 `Disable cache` 选项框，表明当前不使用 cache，页面数据全部来自于 Internet，刷新页面，再次在开发者工具底部查看加载该页面花费的时间。你可比对与有 cache 时的加载速度差异。
 
-![](D:\作业\网络\2.jpg)
+![](2.jpg)
 
 
 
